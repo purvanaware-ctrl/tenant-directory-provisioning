@@ -1,4 +1,4 @@
-# Assignment 131 – Tenant Directory & Provisioning
+# Tenant Directory & Provisioning System
 
 A Platform Admin application for managing tenant onboarding, organization boundaries, provisioning readiness and governance audit history.
 
